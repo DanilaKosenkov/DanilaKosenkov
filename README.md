@@ -15,9 +15,8 @@ Experimenting with **gaze data** and **contextual prompts** to see how humans an
 
 ## 🛠 What I’m learning
 Everything that might make me slightly smarter than yesterday:  
-- NLP, ML, AI, deep learning, data science… basically anything that’s trendy in my field 😅  
-- Trying not to break things while experimenting  
-
+- NLP, ML, AI, deep learning, data science…
+  
 ---
 
 ## 📫 Contact me
@@ -28,4 +27,4 @@ Everything that might make me slightly smarter than yesterday:
 
 *"Code is like humor. When you have to explain it, it’s bad."* 😉  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanilaKosenkov&show_icons=true&theme=radical)
